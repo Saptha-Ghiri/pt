@@ -1,0 +1,12 @@
+path: C:/Users/SAPTHA GHIRI K/Desktop/Sih_Final/yolo-detection/data
+train: images/train
+
+val: images/train
+
+
+names : 
+  0: 'Good'
+  1: 'Bad'
+
+
+
